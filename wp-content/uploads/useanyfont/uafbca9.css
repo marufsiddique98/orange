@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'evermore';
+					src: url('5038evermore.woff2') format('woff2'),
+						url('5038evermore.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.evermore{font-family: 'evermore' !important;}
+
+						#title{
+					font-family: 'evermore' !important;
+				}
+		
